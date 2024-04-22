@@ -10,6 +10,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## Deployment 
 
+Link: [https://ashleykanderson.github.io/leaflet_challenge/](https://ashleykanderson.github.io/leaflet_challenge/)
 
 ## Instructions
 The instructions for this activity are:
